@@ -1,0 +1,4 @@
+﻿  CopyControl.cpp
+c:\users\clay\desktop\teencoder\java programming\my projects\cpp project folder (dell)\copycontrol\copycontrol\cc.h(314): warning C4930: 'TreeNode tn3(void)': prototyped function not called (was a variable definition intended?)
+c:\users\clay\desktop\teencoder\java programming\my projects\cpp project folder (dell)\copycontrol\copycontrol\cc.h(313): warning C4930: 'TreeNode tn2(void)': prototyped function not called (was a variable definition intended?)
+  CopyControl.vcxproj -> C:\Users\Clay\Desktop\TeenCoder\Java Programming\My Projects\Cpp Project Folder (Dell)\CopyControl\Debug\CopyControl.exe

@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  StrBlob.cpp
+  StrBlobPtr.cpp
+  CopyControl.cpp
+c:\users\clay\desktop\teencoder\java programming\my projects\cpp project folder (dell)\copycontrol\copycontrol\CC.h(311): warning C4930: 'TreeNode tn3(void)': prototyped function not called (was a variable definition intended?)
+c:\users\clay\desktop\teencoder\java programming\my projects\cpp project folder (dell)\copycontrol\copycontrol\CC.h(310): warning C4930: 'TreeNode tn2(void)': prototyped function not called (was a variable definition intended?)
+  Folder.cpp
+  Message.cpp
+  Generating code
+  All 549 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CopyControl.vcxproj -> C:\Users\Clay\Desktop\TeenCoder\Java Programming\My Projects\Cpp Project Folder (Dell)\CopyControl\Release\CopyControl.exe
